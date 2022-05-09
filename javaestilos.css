@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(196, 182, 52);
+    color: red;
+}
+.titulo{
+    text-align:center;
+    color:rgb(218, 118, 64);
+    text-align: center;
+}
+.nom{
+    background-color: darksalmon;
+    color: rgb(30, 177, 210);
+    font-size: 50px;
+    margin: 5px;
+    padding: 7px;
+    text-align: center;
+    font-weight: 800;
+    padding: 20px;
+}
